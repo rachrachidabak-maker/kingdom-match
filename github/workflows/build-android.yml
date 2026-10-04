@@ -17,7 +17,7 @@ permissions:
   id-token: write
 
 env:
-  CONTACT_EMAIL: "TON_EMAIL@exemple.com"
+  CONTACT_EMAIL: "rachrachidabak@gmail.com"
 
 jobs:
   keystore:
