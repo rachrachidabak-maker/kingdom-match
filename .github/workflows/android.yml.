@@ -133,7 +133,7 @@ jobs:
           EOF2
           cat > capacitor.config.json <<'EOF2'
           {
-            "appId": "com.rachrachidabak.rachmatch",
+            "appId": "com.rachmatch.game",
             "appName": "RachMatch",
             "webDir": "www"
           }
